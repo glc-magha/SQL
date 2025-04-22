@@ -176,5 +176,4 @@ GROUP BY p.ProductName
 ORDER BY TotalSold DESC
 LIMIT 1;
 
-
 """
